@@ -1,0 +1,2 @@
+**MemHack** é uma biblioteca Python focada na criação de cheats, manipulação de memória e gerenciamento de arquivos em tempo real. Atualmente em desenvolvimento, o projeto busca oferecer ferramentas simples e eficientes para explorar processos, modificar valores e monitorar mudanças na memória, além de facilitar operações com arquivos. Ideal para desenvolvedores que desejam explorar automação e manipulação de dados de forma prática. Novas funcionalidades estão sendo adicionadas continuamente para aprimorar a experiência.
+
